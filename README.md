@@ -1,4 +1,4 @@
-# Hi there, I'm [Swarnava Paul] 👋
+# Hi there, I'm Swarnava Paul 👋
 
 ![Header](https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg)
 
@@ -25,7 +25,7 @@ I'm a passionate Front-end Developer with a knack for creating beautiful and fun
 
 ## GitHub Stats:
 
-!(https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Swarnava-paul&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarnava-paul&layout=compact&theme=radical)
 
