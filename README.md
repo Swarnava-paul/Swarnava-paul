@@ -1,6 +1,6 @@
 # Hi there, I'm [Swarnava Paul] 👋
 
-![Header](https://https://www.21kschool.com/za/wp-content/uploads/sites/23/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg/header-image.png)
+(https://https://www.21kschool.com/za/wp-content/uploads/sites/23/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg/header-image.png)
 
 ## About Me
 
